@@ -27,23 +27,23 @@ public:
          cin >> amount;
          Balance += amount;
          cout << "\n Total balance :" << Balance<<"Rs" << endl;
-    }
-    void Withdraw()
-    {
-        int with1;
-        cout << "Enter your Withdraw amount" << endl;
-        cin >> with1;
-        if (Balance > with1 && Balance>500)
-        {
+//     }
+//     void Withdraw()
+//     {
+//         int with1;
+//         cout << "Enter your Withdraw amount" << endl;
+//         cin >> with1;
+//         if (Balance > with1 && Balance>500)
+//         {
 
-            Balance -= with1;
-            cout << "Your abilable balance is:" << Balance<<"Rs" << endl;
-        }
-        else
-        {
-            cout << "Not avalable Enough amount" << endl;
-        }
-    }
+//             Balance -= with1;
+//             cout << "Your abilable balance is:" << Balance<<"Rs" << endl;
+//         }
+//         else
+//         {
+//             cout << "Not avalable Enough amount" << endl;
+//         }
+//     }
     void display()
     {
         cout << "\n\n============================";
