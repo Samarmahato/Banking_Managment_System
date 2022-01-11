@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 /*Create a class to present a Bank Account .Include the following memeber  Data members -name of depositor,-account number,-types of account,- Blance amount in the account member function -to assign initial values to deposite an amount to withdraw an amount after checking the blance ,-to display name and blance .write a main function with menu option to tect the program .*/
-
+/*The branch is main to the unicorn branch is like create a new branch (uSER dEFINED BRANCH)*/
 class Bank_Account
 {
     string Name;
