@@ -20,14 +20,14 @@ public:
         cin >> Typeaccount;
          cout << "\n Inatial Balanace is 1000 Rs:"<<endl;
     }
-//     void Deposite()
-//     {
-//         int amount;
-//         cout << "Enter your deposite amount" << endl;
-//         cin >> amount;
-//         Balance += amount;
-//         cout << "\n Total balance :" << Balance<<"Rs" << endl;
-//     }
+     void Deposite()
+     {
+         int amount;
+         cout << "Enter your deposite amount" << endl;
+         cin >> amount;
+         Balance += amount;
+         cout << "\n Total balance :" << Balance<<"Rs" << endl;
+    }
     void Withdraw()
     {
         int with1;
