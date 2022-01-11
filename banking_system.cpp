@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 /*Create a class to present a Bank Account .Include the following memeber  Data members -name of depositor,-account number,-types of account,- Blance amount in the account member function -to assign initial values to deposite an amount to withdraw an amount after checking the blance ,-to display name and blance .write a main function with menu option to tect the program .*/
-/*The branch is main to the unicorn branch is like create a new branch (uSER dEFINED BRANCH)*/
+/*The branch is main to the unicorn branch is like create a new branch (User diffrent Branch)*/
 class Bank_Account
 {
     string Name;
@@ -10,16 +10,6 @@ class Bank_Account
     double Balance = 1000;
 
 public:
-    void accAssinge()
-    {
-        cout << "Enter you name:=" ;
-        cin >> Name;
-        cout << "\n Enter your Account number=" ;
-        cin >> ACnumber;
-        cout << "\nEnter your account type=";
-        cin >> Typeaccount;
-         cout << "\n Inatial Balanace is 1000 Rs:"<<endl;
-    }
      void Deposite()
      {
          int amount;
