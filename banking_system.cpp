@@ -8,6 +8,9 @@ class Bank_Account
     double ACnumber;
     string Typeaccount;
     double Balance = 1000;
+     double Mobile_number;
+    string Fathe_nmae;
+    double Lone_amount;
 
 public:
      void Deposite()
