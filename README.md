@@ -1,11 +1,39 @@
-# Banking-System
-This is an Banking System cpp codding project in my collage.
+# Banking Managment System
+## About the Project💡
+The Bank Account Management System is an application for maintaining a person's account
+in a bank. In this project I tried to show the working of a banking account system and
+cover the basic functionality of a Bank Account Management System. To develop a project
+for solving financial applications of a customer in banking environment in order to nurture
+the needs of an customer.To Write a program to build a Bank Management System using C++ which can perform the following operations: 
+
+- Open account
+- Deposit Money
+- Withdraw Money
+- Display Account
+
 ## Technology Stack 🛠️
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+  
+- **Coding Language**: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- **Tools & Technologies**: [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+- **Project Management Tools**:<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
+## Learning Resources 🧰
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarmahato&show_icons=true&locale=en&layout=compact" alt="samarmahato" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarmahato&show_icons=true&locale=en" alt="samarmahato" /></p>
+- [Git Documentation](https://git-scm.com/docs)
+- [GitHub Guides](https://guides.github.com/)
+- [CPP Documentation](https://cplusplus.com/)
+- [Youtube Video](https://www.youtube.com/watch?v=vNT4P23ihCo)
+- [Geeksfogeeks Article](https://www.geeksforgeeks.org/menu-driven-program-for-bank-management-system/)
+- [vs Code for Developers](https://code.visualstudio.com/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarmahato&" alt="samarmahato" /></p>
+
+
+
+## License📜
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
+## Project Admin 📆
+
+<td align="center"><img src="" width="10px;" alt=""/> 
+	<b>Samar Mahato</b>
+</td>
