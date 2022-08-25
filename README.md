@@ -34,6 +34,6 @@ the needs of an customer.To Write a program to build a Bank Management System us
 
 ## Project Admin 📆
 
-<td align="center"><img src="" width="10px;" alt=""/> 
+<td align="center"><img src="https://github.com/Samarmahato/Banking_Managment_System/blob/UNICORN/Samar%20Mahato%20_DSC.JPG" width="100px;" alt=""/> 
 	<b>Samar Mahato</b>
 </td>
